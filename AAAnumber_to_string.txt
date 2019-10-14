@@ -1,0 +1,41 @@
+for i in range(0,30000):
+	if prediction[i] == 0:
+		prediction[i] = 'hockey'
+	if prediction[i] == 1:
+		prediction[i] = 'nba'
+	if prediction[i] == 2:
+		prediction[i] = 'leagueoflegends'
+	if prediction[i] == 3:
+		prediction[i] = 'soccer'
+	if prediction[i] == 4:
+		prediction[i] = 'funny'
+	if prediction[i] == 5:
+		prediction[i] = 'movies'
+	if prediction[i] == 6:
+		prediction[i] = 'anime'
+	if prediction[i] == 7:
+		prediction[i] = 'Overwatch'
+	if prediction[i] == 8:
+		prediction[i] = 'trees'
+	if prediction[i] == 9:
+		prediction[i] = 'GlobalOffensive'
+	if prediction[i] == 10:
+		prediction[i] = 'nfl'
+	if prediction[i] == 11:
+		prediction[i] = 'AskReddit'
+	if prediction[i] == 12:
+		prediction[i] = 'gameofthrones'
+	if prediction[i] == 13:
+		prediction[i] = 'conspiracy'
+	if prediction[i] == 14:
+		prediction[i] = 'worldnews'
+	if prediction[i] == 15:
+		prediction[i] = 'wow'
+	if prediction[i] == 16:
+		prediction[i] = 'europe'
+	if prediction[i] == 17:
+		prediction[i] = 'canada'
+	if prediction[i] == 18:
+		prediction[i] = 'Music'
+	if prediction[i] == 19:
+		prediction[i] = 'baseball'
