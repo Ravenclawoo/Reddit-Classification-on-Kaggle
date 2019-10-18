@@ -174,6 +174,11 @@ print("Training is finished, ready to perform testing.")
 prediction = clf.predict(feature_matrix_test)
 print("Testing is Done!!")
 
+
+# compute the running time
+end = time.time()
+print("The running time is:", (end-start))
+
 # Convert numerical testing labels
 prediction = prediction.tolist()
 
