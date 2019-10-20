@@ -145,7 +145,7 @@ for i in range(0, len(test_comments)):
 train_x = data_preprocess(corpus)
 test_x = data_preprocess(test_corpus)
 
-preprocessed_corpus = train_x + test_x
+preprocessed_corpus = train_x
 
 print(len(preprocessed_corpus))
 
