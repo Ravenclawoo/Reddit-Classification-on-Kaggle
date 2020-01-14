@@ -1,4 +1,3 @@
-# COMP551-A2
 I updated all the things in code and data folders.
 
 
